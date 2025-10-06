@@ -1,0 +1,11 @@
+    PID    PPID CMD                         %MEM %CPU
+   3910    3732 ps -eo pid,ppid,cmd,%mem,%c  0.0  100
+   2685    2309 /usr/bin/gnome-shell         7.8  4.7
+    932       1 /usr/lib/snapd/snapd         0.7  0.6
+   3725    2309 /usr/libexec/gnome-terminal  1.0  0.4
+   2805    2309 /usr/bin/ibus-daemon --pane  0.2  0.4
+      1       0 /sbin/init splash            0.2  0.4
+   3055    2805 /usr/libexec/ibus-extension  0.5  0.3
+    186       2 [kworker/2:2-events]         0.0  0.2
+    912       1 @dbus-daemon --system --add  0.1  0.1
+   3492    2685 gjs /usr/share/gnome-shell/  1.2  0.1

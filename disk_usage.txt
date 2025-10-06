@@ -1,0 +1,7 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           498M  1.7M  497M   1% /run
+/dev/sda2        25G  5.7G   18G  25% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           498M  144K  498M   1% /run/user/1000
+/dev/sr0        6.0G  6.0G     0 100% /media/akshit/Ubuntu 24.04.3 LTS amd64
